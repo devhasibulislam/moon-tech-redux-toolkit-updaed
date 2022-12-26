@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "Hasib",
+    "Hasibul",
+    "Immer",
+    "middlewares",
+    "reduxjs",
+    "tailwindcss"
+  ],
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
